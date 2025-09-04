@@ -2,7 +2,7 @@
 
 The script will poll the API every 10 seconds, save the response to response.txt, and insert it into an SQLite database data.db
 
-![Diagram](polling/unnamed.png)
+![Diagram](unnamed.png)
 
 Steps:
 
